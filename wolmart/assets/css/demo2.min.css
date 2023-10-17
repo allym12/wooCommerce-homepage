@@ -39803,6 +39803,10 @@ aside .sp-sidebar-banner span {
    /* Hide the overlay by default */
 }
 
+.card{
+    border: none;
+}
+
 .card:hover .card-img-overlay {
     display: block; 
     -webkit-transform: scale(1.1) rotate(-1deg);
